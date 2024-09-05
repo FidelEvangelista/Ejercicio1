@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\operacionsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\operacionsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\ioperacionsumaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\ioperacionsumaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\operacionmultiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\operacionmultiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\ioperacionmultiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\ioperacionmultiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\operaciondivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\operaciondivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\operacionresta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\operacionresta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\ioperaciondivisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\ioperaciondivisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|c:\\users\\fevangelista\\source\\repos\\minimalapi_ejercicio1\\minimalapi_ejercicio1\\ioperacionrestaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACE488D-2F48-460F-A3F9-851F2A87C574}|MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1.csproj|solutionrelative:minimalapi_ejercicio1\\ioperacionrestaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperacionSuma.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionSuma.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\OperacionSuma.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionSuma.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\OperacionSuma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:07:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOperacionSumaService.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionSumaService.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\IOperacionSumaService.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionSumaService.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\IOperacionSumaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:07:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacionMultiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionMultiplicacion.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\OperacionMultiplicacion.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionMultiplicacion.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\OperacionMultiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:40:02.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOperacionMultiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionMultiplicacion.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\IOperacionMultiplicacion.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionMultiplicacion.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\IOperacionMultiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:39:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperacionDivision.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionDivision.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\OperacionDivision.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionDivision.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\OperacionDivision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:37:52.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\Program.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:28:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOperacionDivisionService.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionDivisionService.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\IOperacionDivisionService.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionDivisionService.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\IOperacionDivisionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:36:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperacionResta.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionResta.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\OperacionResta.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\OperacionResta.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\OperacionResta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:34:23.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOperacionRestaService.cs",
+              "DocumentMoniker": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionRestaService.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Ejercicio1\\IOperacionRestaService.cs",
+              "ToolTip": "C:\\Users\\fevangelista\\source\\repos\\MinimalAPI_Ejercicio1\\MinimalAPI_Ejercicio1\\IOperacionRestaService.cs",
+              "RelativeToolTip": "MinimalAPI_Ejercicio1\\IOperacionRestaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:33:41.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
